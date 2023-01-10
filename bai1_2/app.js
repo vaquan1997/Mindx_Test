@@ -32,7 +32,7 @@ let N = 6;
         
 
 //Câu 2:
-document.write("<br/>Câu 2: (ở console log) copy test case  " + x);
+document.write("<br/>Câu 2: (ở console log) copy test case  ");
 function freeShipping(order){
     let isFreeShip = false
     let sumMoney = 0;
